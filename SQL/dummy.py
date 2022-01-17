@@ -5,10 +5,7 @@ import time
 from faker import Faker
 import random
 pablodb = mysql.connector.connect(
-        host="93.67.106.99",
-        user='pablo',
-        password='pablo',
-        database='PablitoBDB'
+ #Database connection
 )
 
 cursor = pablodb.cursor()
