@@ -8,7 +8,7 @@ We used MySQL as DBMS, you can find the [database dump](SQL/dump.sql) inside the
 The next goal of the project is designing and developing a web application and a management program that interface with the database, stay tuned!
 
 Talking about the database, this is the database logic scheme:
-![dblogicscheme](Img/DBSchemes/Ristrutturato.png)
+![dblogicscheme](Img/DBSchemes/Ristrutturato.jpg)
 
 # Contributors
 
