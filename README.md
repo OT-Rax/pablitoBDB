@@ -3,12 +3,12 @@ This project was born as a university project. The main goal is designing and im
 
 You can find our [report](Report/Report.pdf) inside [Report](Report/) directory, unluckily it's written in italian cause our professor wanted it that way. Don't blame us, we might translate it soon.
 
-You can find the [database dummp](SQL/dump.sql) inside [SQL](SQL/) directory, it contains fake data created using [Faker library](https://github.com/joke2k/faker), give a look at that [repo](https://github.com/joke2k/faker).
+You can find the [database dump](SQL/dump.sql) inside [SQL](SQL/) directory, it contains fake data created using [Faker library](https://github.com/joke2k/faker), give a look at that [repo](https://github.com/joke2k/faker).
 
 The next goal of the project is designing and developing a Web application and a management program that interface with the database, stay tuned!
 
 Talking about the database, this is the database logic scheme:
-![dblogicscheme](img/DBSchemes/Ristrutturato.png)
+![dblogicscheme](Img/DBSchemes/Ristrutturato.png)
 # Contributors
 
 Name | Email | GitHub | Contributing | LinkedIn 
