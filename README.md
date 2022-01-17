@@ -1,6 +1,5 @@
 # pablitoBDB
-This project was born as a university project. The main goal is designing and implementing a database from scratch, thus we decided to contact an engineering firm to work with them and improve their workflow. The reason we decided to contact them is the fact that they didn't work with any database, and designing a database for that enviroment is challenging.
-We like challenges.
+This project was born as a university project. The main goal is designing and implementing a database from scratch, thus we decided to contact an engineering firm to work with them and improve their workflow. The reason we decided to contact them is the fact that they didn't work with any database, and designing a database for that enviroment is challenging. We like challenges.
 
 You can find our [report](Report/Report.pdf) inside the [Report directory](Report/), unluckily it's written in italian cause our professor wanted it that way. Don't blame us, we might translate it soon. The report was written using Latex, in the Report directory you can find the [tex file](Report/Report.tex) too.
 
